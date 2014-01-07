@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Temp\TableComponentsBenchmarking\DataGridTester\bin\Release\DataGridTester.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-11-13" time="12:45:12">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.6407" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="E:\Program Files (x86)\NUnit 2.6.2\bin" machine-name="JIRIPIK-HPENVY" user="Jiri" user-domain="JIRIPIK-HPENVY" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Temp\TableComponentsBenchmarking\DataGridTester\bin\Release\DataGridTester.dll" executed="True" result="Success" success="True" time="67.723" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="DataGridTester" executed="True" result="Success" success="True" time="67.709" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="DataGridWithoutINotifyPropertyChangeFixture" executed="True" result="Success" success="True" time="67.708" asserts="0">
+            <results>
+              <test-case name="DataGridTester.DataGridWithoutINotifyPropertyChangeFixture.DataGridFixtureBase`1.BenchmarkWithPreload" executed="True" result="Success" success="True" time="62.771" asserts="0">
+                <properties>
+                  <property name="APARTMENT_STATE" value="STA" />
+                </properties>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

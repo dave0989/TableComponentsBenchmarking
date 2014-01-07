@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{B8612B05-1C1C-4084-8734-96335BD772CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelerikRadGridViewTester", "TelerikRadGridViewTester\TelerikRadGridViewTester.csproj", "{B6E2E76A-ED5E-40EA-9342-22B2DB1F9C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelerikLightRadGridViewTester", "TelerikLightRadGridViewTester\TelerikLightRadGridViewTester.csproj", "{9C774557-12EF-4F85-ABE8-D34F555C85D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridTester", "DataGridTester\DataGridTester.csproj", "{EB06A8D1-EE7E-4E17-ADF1-ECB22E85C0B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8612B05-1C1C-4084-8734-96335BD772CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8612B05-1C1C-4084-8734-96335BD772CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8612B05-1C1C-4084-8734-96335BD772CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8612B05-1C1C-4084-8734-96335BD772CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E2E76A-ED5E-40EA-9342-22B2DB1F9C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E2E76A-ED5E-40EA-9342-22B2DB1F9C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E2E76A-ED5E-40EA-9342-22B2DB1F9C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E2E76A-ED5E-40EA-9342-22B2DB1F9C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C774557-12EF-4F85-ABE8-D34F555C85D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C774557-12EF-4F85-ABE8-D34F555C85D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C774557-12EF-4F85-ABE8-D34F555C85D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C774557-12EF-4F85-ABE8-D34F555C85D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB06A8D1-EE7E-4E17-ADF1-ECB22E85C0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB06A8D1-EE7E-4E17-ADF1-ECB22E85C0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB06A8D1-EE7E-4E17-ADF1-ECB22E85C0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB06A8D1-EE7E-4E17-ADF1-ECB22E85C0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

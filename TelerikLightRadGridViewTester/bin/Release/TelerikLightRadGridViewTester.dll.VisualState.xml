@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1010]C:\Temp\TableComponentsBenchmarking\TelerikLightRadGridViewTester\bin\Release\TelerikLightRadGridViewTester.dll</TopNode>
+  <SelectedNode>[0-1009]TelerikLightRadGridViewTester.TelerikLightRadGridViewWithoutINotifyPropertyChangeFixture.TelerikLightRadGridViewFixtureBase`1.BenchmarkWithPreload</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1010]C:\Temp\TableComponentsBenchmarking\TelerikLightRadGridViewTester\bin\Release\TelerikLightRadGridViewTester.dll" Expanded="true" />
+    <Node UniqueName="[0-1011]TelerikLightRadGridViewTester" Expanded="true" />
+    <Node UniqueName="[0-1000]TelerikLightRadGridViewTester.TelerikLightRadGridViewFixtureBase&lt;T&gt;" Expanded="true" />
+    <Node UniqueName="[0-1001]TelerikLightRadGridViewTester.TelerikLightRadGridViewFixtureBase&lt;T&gt;" Expanded="true" />
+    <Node UniqueName="[0-1004]TelerikLightRadGridViewTester.TelerikLightRadGridViewWithINotifyPropertyChangeFixture" Expanded="true" />
+    <Node UniqueName="[0-1007]TelerikLightRadGridViewTester.TelerikLightRadGridViewWithoutINotifyPropertyChangeFixture" Expanded="true" />
+  </Nodes>
+</VisualState>

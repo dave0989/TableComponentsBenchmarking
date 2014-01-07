@@ -1,0 +1,5 @@
+c:\Temp\TableComponentsBenchmarking\TelerikRadGridViewTester\obj\Debug\TelerikRadGridViewTester.csprojResolveAssemblyReference.cache
+c:\Temp\TableComponentsBenchmarking\TelerikRadGridViewTester\obj\Debug\TelerikRadGridViewWindow.baml
+c:\Temp\TableComponentsBenchmarking\TelerikRadGridViewTester\obj\Debug\TelerikRadGridViewWindow.g.cs
+c:\Temp\TableComponentsBenchmarking\TelerikRadGridViewTester\obj\Debug\TelerikRadGridViewTester_MarkupCompile.cache
+c:\Temp\TableComponentsBenchmarking\TelerikRadGridViewTester\obj\Debug\TelerikRadGridViewTester.g.resources

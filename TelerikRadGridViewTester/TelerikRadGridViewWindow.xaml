@@ -1,0 +1,28 @@
+﻿<Window xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"  x:Class="TelerikRadGridViewTester.TelerikRadGridViewWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+        mc:Ignorable="d" 
+        d:DesignHeight="300" d:DesignWidth="300" MaxHeight="500" MaxWidth="500">
+    <DockPanel LastChildFill="True">
+        <telerik:RadGridView x:Name="GridWithData" GroupRenderMode="Flat"
+                             IsReadOnly="True"
+                             AutoGenerateColumns="False"
+                             MinHeight="386"
+                             MaxHeight="500"
+                             CanUserFreezeColumns="False"
+                             RowIndicatorVisibility="Collapsed"
+                             CanUserResizeColumns="False"
+                             EnableRowVirtualization = "True" ShowGroupPanel = "False" ShowGroupFooters = "False" CanUserSortColumns = "False" CanUserSortGroups = "False" Height="300" Width="300" >
+            <telerik:RadGridView.Columns>
+                <telerik:GridViewDataColumn DataMemberBinding="{Binding Ticker}" Header="Ticker" IsGroupable="False" IsFilterable="False"/>
+                <telerik:GridViewDataColumn DataMemberBinding="{Binding Name}" Header="Name" IsGroupable="False" IsFilterable="False"/>
+                <telerik:GridViewDataColumn DataMemberBinding="{Binding Close}" Header="Close" IsGroupable="False" IsFilterable="False"/>
+                <telerik:GridViewDataColumn DataMemberBinding="{Binding Open}" Header="Open" IsGroupable="False" IsFilterable="False"/>
+                <telerik:GridViewDataColumn DataMemberBinding="{Binding High}" Header="High" IsGroupable="False" IsFilterable="False"/>
+                <telerik:GridViewDataColumn DataMemberBinding="{Binding Low}" Header="Low" IsGroupable="False" IsFilterable="False"/>
+            </telerik:RadGridView.Columns>
+        </telerik:RadGridView>
+    </DockPanel>
+</Window>

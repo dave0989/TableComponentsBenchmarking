@@ -1,0 +1,21 @@
+﻿<Window x:Class="DataGridTester.DataGridWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+        mc:Ignorable="d" 
+        d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <DataGrid x:Name="GridWithData" AutoGenerateColumns="False" EnableRowVirtualization = "True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Ticker}" Header="Ticker"/>
+                <DataGridTextColumn Binding="{Binding Name}" Header="Name"/>
+                <DataGridTextColumn Binding="{Binding Close}" Header="Close"/>
+                <DataGridTextColumn Binding="{Binding Open}" Header="Open"/>
+                <DataGridTextColumn Binding="{Binding Low}" Header="Low"/>
+                <DataGridTextColumn Binding="{Binding High}" Header="High"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

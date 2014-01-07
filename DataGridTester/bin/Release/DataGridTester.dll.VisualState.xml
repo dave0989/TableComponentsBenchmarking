@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1010]C:\Temp\TableComponentsBenchmarking\DataGridTester\bin\Release\DataGridTester.dll</TopNode>
+  <SelectedNode>[0-1009]DataGridTester.DataGridWithoutINotifyPropertyChangeFixture.DataGridFixtureBase`1.BenchmarkWithPreload</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1010]C:\Temp\TableComponentsBenchmarking\DataGridTester\bin\Release\DataGridTester.dll" Expanded="true" />
+    <Node UniqueName="[0-1011]DataGridTester" Expanded="true" />
+    <Node UniqueName="[0-1000]DataGridTester.DataGridFixtureBase&lt;T&gt;" Expanded="true" />
+    <Node UniqueName="[0-1001]DataGridTester.DataGridFixtureBase&lt;T&gt;" Expanded="true" />
+    <Node UniqueName="[0-1004]DataGridTester.DataGridWithINotifyPropertyChangeFixture" Expanded="true" />
+    <Node UniqueName="[0-1007]DataGridTester.DataGridWithoutINotifyPropertyChangeFixture" Expanded="true" />
+  </Nodes>
+</VisualState>

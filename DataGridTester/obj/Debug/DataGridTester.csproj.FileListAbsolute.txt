@@ -1,0 +1,5 @@
+c:\Temp\TableComponentsBenchmarking\DataGridTester\obj\Debug\DataGridTester.csprojResolveAssemblyReference.cache
+c:\Temp\TableComponentsBenchmarking\DataGridTester\obj\Debug\DataGridWindow.baml
+c:\Temp\TableComponentsBenchmarking\DataGridTester\obj\Debug\DataGridWindow.g.cs
+c:\Temp\TableComponentsBenchmarking\DataGridTester\obj\Debug\DataGridTester_MarkupCompile.cache
+c:\Temp\TableComponentsBenchmarking\DataGridTester\obj\Debug\DataGridTester.g.resources

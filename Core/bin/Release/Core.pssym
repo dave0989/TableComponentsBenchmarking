@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[PostSharp.Patterns.Model]PostSharp.Patterns.Model.NotifyPropertyChangedAttribute">
+    <Instance Declaration="#2=T:[Core]Core.Data.SecurityRecordWithNotifyPropertyChanged" Id="76e125f44fb77e69">
+      <Target>
+        <JoinPoint Advising="#1" Description="#3=Introduce event PropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#1" Description="#4=Introduce method remove_PropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#1" Description="#5=Introduce method add_PropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#1" Description="#6=Introduce event ChildPropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#1" Description="#7=Introduce method add_ChildPropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#1" Description="#8=Introduce method remove_ChildPropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#1" Description="#9=Introduce method OnPropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#1" Description="#10=Introduce method OnChildPropertyChanged" Ordinal="0" />
+        <JoinPoint Advising="#1" Description="#11=Introduce interface(s) INotifyChildPropertyChanged, INotifyPropertyChanged" Ordinal="0" />
+      </Target>
+    </Instance>
+  </Class>
+</Symbols>
